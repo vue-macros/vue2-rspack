@@ -11,10 +11,10 @@
     "vue": "^2.7.16"
   },
   "devDependencies": {
-    "@rspack/cli": "1.0.0-alpha.1",
-    "@rspack/core": "1.0.0-alpha.1",
+    "@rspack/cli": "1.0.3",
+    "@rspack/core": "1.0.3",
     "typescript": "~5.5.4",
-    "unplugin-vue-macros": "^2.10.0",
+    "unplugin-vue-macros": "^2.11.7",
     "vue-loader": "^15.11.1"
   }
 }
